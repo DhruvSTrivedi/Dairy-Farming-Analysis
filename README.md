@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="path_to_dairy_farm_image.jpg" alt="Dairy Farm Image"/>
+  <img src="background.png" alt="Dairy Farm Image"/>
 </p>
 
 
