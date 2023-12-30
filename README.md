@@ -1,6 +1,11 @@
-# Dairy Farm Productivity Analysis in Gujarat
+<h1 align="center">
+  <strong>Dairy Farm Productivity Analysis in Gujarat</strong>
+</h1>
 
-![Dairy Farm Image](path_to_dairy_farm_image.jpg)
+<p align="center">
+  <img src="path_to_dairy_farm_image.jpg" alt="Dairy Farm Image"/>
+</p>
+
 
 ## Introduction
 
