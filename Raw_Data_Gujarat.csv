@@ -1,0 +1,300 @@
+Number of Cows,Number of Buffaloes,Location of Farm,Average Daily Milk Production (litres),Milk Collection Centre,Yearly Expenditure on Animal Health (INR),Yeary Income from Selling Manure (INR),Primary Feed for Livestock,Satisfaction with Government Support,Monthly Operating Costs (INR),Monthly Revenue (INR),Use of Automation,Number of Family Members/Employees Working at the Farm
+172,11,jamnagar,1075,mother dairy,50642,43224,company products,7,92664,76967.0,no,38
+47,23,vadodara,350,dudhsagar dairy,99740,7011,company products,3,40929,42516.0,no,39
+117,187,rajkot,1520,aavin,95110,7011,company products,9,82689,64924.0,yes,12
+192,130,jamnagar,1610,selling privately to consumers,24881,40605,company products,1,191993,88905.0,yes,44
+323,98,ahmedabad,2360,verka,54038,19521,natural plants,5,47018,82671.0,yes,25
+251,62,vadodara,1520,parag milk foods ltd,41782,16151,natural plants,10,26445,63101.0,NA,18
+195,58,vadodara,2085,kwality limited,71185,34176,company products,8,186733,76967.0,NA,22
+359,123,ahmedabad,2410,kwality limited,54709,33879,NA,1,124423,106179.0,no,31
+9,82,ahmedabad,455,kwality limited,22383,36645,natural plants,1,193970,96972.0,yes,19
+211,136,jamnagar,2190,amul,80918,21871,company products,8,191463,129396.0,no,26
+277,130,vadodara,2125,parag milk foods ltd,21408,27071,natural plants,9,75666,90821.0,yes,30
+242,209,surat,2255,karnataka co-operative milk federation,55387,21863,company products,4,57063,94684.0,yes,38
+292,50,jamnagar,1710,kwality limited,72834,13657,company products,6,190913,64957.0,no,13
+87,129,rajkot,1785,mother dairy,94338,27892,natural plants,1,150152,26952.0,yes,41
+70,41,rajkot,555,kwality limited,98754,47320,company products,4,31929,63970.0,yes,50
+472,58,rajkot,1520,mother dairy,37906,25701,company products,2,118671,105201.0,no,43
+88,193,ahmedabad,745,aavin,83036,31504,company products,1,188052,59855.0,yes,32
+396,300,surat,2160,selling privately to consumers,18819,36720,company products,8,79364,63101.0,no,40
+314,266,vadodara,3075,dynamix dairy,25708,35883,natural plants,10,99850,112334.0,no,12
+193,129,rajkot,1395,verka,51574,33879,NA,4,98772,59368.0,yes,4
+486,43,jamnagar,2645,karnataka co-operative milk federation,98477,2963,natural plants,8,42746,82313.0,NA,33
+39,11,vadodara,1840,kwality limited,45051,23279,company products,1,79600,30779.0,yes,2
+87,258,rajkot,1725,selling privately to consumers,75323,46870,natural plants,3,186494,98620.0,no,2
+174,80,rajkot,1270,verka,21326,40843,natural plants,5,136564,78943.0,no,37
+88,32,ahmedabad,600,selling privately to consumers,36956,15265,company products,3,93533,33265.0,yes,26
+337,182,surat,2595,orissa state cooperative milk producers federation,57663,24455,natural plants,7,171183,102305.0,yes,13
+165,258,surat,1465,parag milk foods ltd,98652,26743,company products,9,63151,91525.0,yes,9
+25,294,ahmedabad,1595,parag milk foods ltd,54785,4378,company products,2,67699,52228.0,NA,13
+333,275,rajkot,3040,dudhsagar dairy,89634,25136,natural plants,8,90775,116336.0,yes,25
+72,174,surat,1230,orissa state cooperative milk producers federation,57449,11463,natural plants,7,169047,48363.0,no,20
+265,232,NA,1535,kwality limited,46444,45295,NA,6,33666,98620.0,no,4
+404,184,vadodara,2940,parag milk foods ltd,63484,19126,natural plants,6,31675,107326.0,yes,11
+115,77,vadodara,2105,aavin,85881,4452,company products,8,26445,33252.0,no,8
+464,286,surat,2525,mother dairy,21477,26450,NA,4,33649,138950.0,no,29
+243,280,surat,2615,kwality limited,54550,6743,NA,7,23799,85193.0,yes,15
+197,125,vadodara,1870,amul,95552,42389,natural plants,9,84923,90689.0,yes,9
+335,258,jamnagar,2965,amul,36152,5630,natural plants,9,151504,94580.0,yes,47
+431,204,surat,2170,kwality limited,50542,44296,company products,9,107429,109396.0,no,36
+448,94,vadodara,2710,verka,17557,26885,natural plants,8,44953,108185.0,yes,36
+338,44,NA,2820,aavin,45620,13195,company products,1,180481,120734.0,no,18
+99,269,ahmedabad,1840,selling privately to consumers,54069,7078,natural plants,9,135569,62278.0,no,24
+472,296,rajkot,3840,mother dairy,91521,8804,natural plants,8,33282,107865.0,NA,13
+177,19,surat,980,karnataka co-operative milk federation,22383,20929,company products,8,70972,50329.0,no,46
+243,269,jamnagar,1690,verka,57456,33339,company products,1,47892,84039.0,no,8
+285,248,rajkot,1460,mother dairy,45312,12120,company products,NA,199265,100082.0,no,48
+147,62,jamnagar,2450,orissa state cooperative milk producers federation,57312,38950,company products,9,38500,88000.0,no,49
+147,270,jamnagar,2885,mother dairy,81968,44707,company products,1,38500,107257.0,no,40
+398,260,jamnagar,3290,mother dairy,39353,22616,company products,5,112616,91345.0,no,31
+423,237,rajkot,555,karnataka co-operative milk federation,57456,16305,company products,6,151442,115305.0,yes,20
+288,139,surat,2135,kwality limited,81208,38607,natural plants,8,190913,102657.0,no,43
+449,86,ahmedabad,2675,amul,40301,32084,company products,3,125955,138950.0,no,46
+265,133,jamnagar,1870,aavin,91728,31504,natural plants,5,53848,78998.0,no,2
+185,266,jamnagar,2105,mother dairy,77559,9481,company products,10,103245,64831.0,no,44
+127,16,ahmedabad,715,mother dairy,51574,45047,company products,8,132197,66497.0,yes,19
+32,152,jamnagar,920,dynamix dairy,28821,13195,natural plants,6,70787,67668.0,yes,15
+31,149,vadodara,900,dynamix dairy,45620,19480,NA,1,199265,46480.0,yes,26
+202,110,ahmedabad,1560,amul,39267,9822,company products,5,47137,56622.0,yes,38
+244,25,vadodara,1345,orissa state cooperative milk producers federation,59279,33879,natural plants,10,69281,60395.0,no,19
+151,117,surat,1340,dudhsagar dairy,25708,1291,company products,2,57063,41491.0,no,35
+163,221,surat,1230,karnataka co-operative milk federation,54785,35300,NA,1,31929,72200.0,no,27
+459,161,vadodara,3100,parag milk foods ltd,44790,34897,natural plants,3,193156,94684.0,no,12
+370,254,ahmedabad,2990,orissa state cooperative milk producers federation,35735,25754,company products,6,39021,115454.0,no,45
+183,251,jamnagar,2170,aavin,95172,46783,natural plants,NA,191628,77330.0,yes,12
+28,121,jamnagar,745,amul,10592,30306,natural plants,6,56018,52656.0,yes,41
+290,287,jamnagar,2885,amul,98477,12180,company products,1,190913,98730.0,yes,37
+128,13,ahmedabad,705,dynamix dairy,92944,5802,company products,1,108418,26952.0,yes,50
+128,184,jamnagar,1560,mother dairy,30183,8058,natural plants,5,103245,54858.0,yes,13
+420,152,vadodara,2860,orissa state cooperative milk producers federation,75354,17553,company products,10,106352,103353.0,no,18
+53,79,vadodara,660,aavin,75276,29285,company products,8,146186,67668.0,no,32
+389,41,NA,2150,karnataka co-operative milk federation,47437,20441,natural plants,3,74137,84941.0,yes,11
+38,274,vadodara,1175,dudhsagar dairy,21408,27892,company products,5,68579,74692.0,yes,49
+488,40,rajkot,2640,amul,20096,4378,company products,1,135569,118581.0,yes,11
+244,207,ahmedabad,2255,kwality limited,83735,49335,natural plants,8,149966,116985.0,yes,12
+273,269,ahmedabad,2700,aavin,42884,15972,company products,7,26720,96972.0,no,30
+335,166,vadodara,2505,amul,68085,27844,company products,4,81332,102994.0,yes,35
+388,111,ahmedabad,2495,orissa state cooperative milk producers federation,50703,4207,natural plants,5,49547,79057.0,NA,28
+105,129,vadodara,745,dudhsagar dairy,72782,45026,company products,7,163701,90689.0,yes,23
+42,223,jamnagar,1325,mother dairy,98624,9139,natural plants,7,79364,45991.0,yes,50
+442,300,jamnagar,3290,karnataka co-operative milk federation,31649,18670,natural plants,2,193058,129970.0,yes,40
+31,216,vadodara,1235,selling privately to consumers,69253,11463,natural plants,3,150045,46480.0,no,6
+376,24,rajkot,2000,selling privately to consumers,46361,16240,company products,4,121831,76240.0,yes,11
+257,67,ahmedabad,1620,dudhsagar dairy,55548,21515,natural plants,7,148108,70115.0,no,3
+321,259,surat,2900,selling privately to consumers,64462,39905,natural plants,4,120555,100219.0,yes,42
+487,234,vadodara,3605,aavin,36703,46617,natural plants,4,118547,66826.0,no,12
+425,204,rajkot,3145,selling privately to consumers,66526,37985,natural plants,3,164223,132335.0,no,47
+57,291,NA,1740,mother dairy,34993,5471,natural plants,2,164223,57671.0,no,42
+291,19,jamnagar,2525,karnataka co-operative milk federation,69268,46783,company products,4,75666,56362.0,no,2
+358,189,vadodara,2735,aavin,37536,12120,natural plants,4,147186,94170.0,NA,36
+119,197,ahmedabad,1580,amul,45044,31069,company products,1,129966,63851.0,no,46
+267,215,rajkot,2410,selling privately to consumers,77399,33339,company products,4,199733,74898.0,yes,23
+430,24,ahmedabad,2365,orissa state cooperative milk producers federation,66638,36915,company products,4,173455,107865.0,no,14
+82,41,rajkot,3205,dudhsagar dairy,75371,42000,natural plants,7,94529,59100.0,no,39
+91,11,jamnagar,510,karnataka co-operative milk federation,83735,34650,company products,5,41634,49950.0,yes,5
+384,209,jamnagar,2440,aavin,49421,45486,company products,5,131131,118686.0,yes,4
+398,212,rajkot,3050,amul,51750,7802,company products,6,171927,99302.0,yes,20
+99,138,surat,960,orissa state cooperative milk producers federation,44658,29442,company products,8,23983,121933.0,no,18
+53,182,surat,3690,milk collection centre,69126,645,company products,10,188775,35895.0,no,17
+396,295,surat,2605,parag milk foods ltd,68523,4039,natural plants,1,136716,82189.0,yes,8
+121,136,surat,1385,orissa state cooperative milk producers federation,25919,23374,company products,3,190781,64924.0,no,44
+426,111,rajkot,1175,aavin,63743,14707,company products,1,136131,90185.0,no,12
+84,258,surat,1710,parag milk foods ltd,43394,32084,company products,1,39169,74008.0,yes,23
+203,27,NA,1150,kwality limited,24859,21863,natural plants,5,34640,56363.0,yes,28
+324,258,rajkot,2705,mother dairy,65255,25701,natural plants,3,86481,143633.0,no,4
+262,151,rajkot,2065,aavin,87799,22791,natural plants,2,151920,84741.0,yes,9
+452,174,rajkot,1255,amul,35374,43699,company products,3,179928,137599.0,no,9
+47,148,ahmedabad,975,aavin,77674,11622,company products,3,158712,48363.0,no,26
+127,258,jamnagar,780,parag milk foods ltd,41010,761,company products,4,164261,24161.0,yes,39
+500,67,surat,2835,parag milk foods ltd,33203,9139,natural plants,3,72330,94189.0,no,34
+131,35,ahmedabad,830,verka,49789,20381,company products,9,145395,45281.0,no,25
+460,295,ahmedabad,600,dynamix dairy,22912,37559,natural plants,6,128094,150809.0,no,22
+356,73,vadodara,2145,kwality limited,47285,33393,company products,2,72246,97743.0,no,5
+180,297,ahmedabad,2385,karnataka co-operative milk federation,39764,41355,natural plants,4,82689,112905.0,no,32
+488,218,NA,3530,amul,84165,38605,natural plants,2,132197,144505.0,no,12
+334,259,jamnagar,2965,selling privately to consumers,68085,12154,natural plants,1,81065,101104.0,yes,38
+143,287,rajkot,2150,mother dairy,65397,36151,company products,2,84261,100651.0,no,8
+148,265,rajkot,2065,selling privately to consumers,39459,2555,company products,5,136044,64505.0,no,23
+227,27,rajkot,1270,dudhsagar dairy,54296,21871,natural plants,2,164261,53712.0,no,43
+442,199,rajkot,3205,parag milk foods ltd,17008,30532,company products,5,177866,126682.0,yes,32
+279,133,rajkot,1700,orissa state cooperative milk producers federation,28129,14707,natural plants,2,37143,65707.0,yes,10
+207,44,vadodara,1255,milk collection centre,77674,32214,natural plants,4,106416,69864.0,no,19
+397,290,surat,3435,orissa state cooperative milk producers federation,37004,5305,natural plants,2,121691,108355.0,no,24
+373,125,vadodara,2305,aavin,83828,31069,natural plants,5,147249,100219.0,no,20
+341,180,surat,1870,verka,76945,39526,company products,8,156857,95626.0,no,26
+48,133,rajkot,905,orissa state cooperative milk producers federation,97197,13195,natural plants,6,58030,56362.0,yes,23
+305,232,rajkot,2685,parag milk foods ltd,80533,19126,natural plants,7,86413,129396.0,no,26
+69,255,surat,1620,orissa state cooperative milk producers federation,34528,7762,natural plants,10,179928,56362.0,no,46
+169,13,surat,1025,karnataka co-operative milk federation,63478,36076,natural plants,3,26424,66826.0,yes,48
+163,256,vadodara,2095,selling privately to consumers,55560,28675,natural plants,6,163388,91525.0,yes,25
+448,290,surat,3690,verka,81592,19480,company products,NA,149508,143633.0,no,45
+95,197,jamnagar,1460,orissa state cooperative milk producers federation,78246,34183,natural plants,3,32772,33252.0,no,27
+197,254,rajkot,2255,dudhsagar dairy,95022,42062,company products,2,149364,48363.0,no,44
+94,80,jamnagar,1255,dudhsagar dairy,24591,11209,natural plants,4,40978,100219.0,yes,33
+256,136,surat,1960,selling privately to consumers,40301,49675,natural plants,9,23670,108475.0,no,31
+369,189,vadodara,2990,amul,33203,31504,company products,4,73420,115204.0,yes,15
+178,129,ahmedabad,1535,selling privately to consumers,82554,45486,natural plants,1,199733,53278.0,no,8
+292,209,rajkot,2505,dudhsagar dairy,94554,46783,company products,8,111550,121933.0,yes,33
+418,291,jamnagar,3545,dynamix dairy,72834,33467,NA,4,25947,139817.0,yes,11
+304,94,jamnagar,3435,dudhsagar dairy,41958,22657,company products,9,127662,93457.0,yes,34
+349,166,rajkot,3205,parag milk foods ltd,59272,14226,company products,4,99280,110376.0,no,46
+387,291,surat,2815,dynamix dairy,70133,11463,company products,5,148381,96407.0,no,44
+98,241,jamnagar,615,dudhsagar dairy,82862,13596,company products,4,53848,32046.0,no,27
+42,291,ahmedabad,1665,orissa state cooperative milk producers federation,39353,16832,natural plants,9,40929,66782.0,no,16
+461,114,jamnagar,2875,orissa state cooperative milk producers federation,81208,11992,company products,1,185736,98242.0,no,5
+368,286,vadodara,3270,verka,69580,30281,natural plants,6,84261,128381.0,yes,11
+487,280,vadodara,2580,dynamix dairy,19425,48008,natural plants,9,84453,125408.0,no,22
+405,241,jamnagar,3230,selling privately to consumers,39363,24530,NA,5,63151,121430.0,no,40
+201,289,ahmedabad,2450,dynamix dairy,44790,3467,company products,4,186889,80126.0,no,43
+383,146,jamnagar,1365,amul,19694,20381,NA,7,96084,90066.0,yes,44
+1,121,vadodara,1365,aavin,35374,22901,natural plants,1,190272,63851.0,no,31
+394,221,NA,1870,parag milk foods ltd,54709,47027,company products,9,129655,139277.0,no,23
+172,11,jamnagar,1075,mother dairy,50642,43224,company products,7,92664,76967.0,no,38
+47,23,vadodara,350,dudhsagar dairy,99740,7011,company products,3,40929,42516.0,no,39
+117,187,rajkot,1520,aavin,95110,7011,company products,9,82689,64924.0,yes,12
+192,130,jamnagar,1610,selling privately to consumers,24881,40605,company products,1,191993,88905.0,yes,44
+323,98,ahmedabad,2360,verka,54038,19521,natural plants,5,47018,82671.0,yes,25
+251,62,vadodara,1520,parag milk foods ltd,41782,16151,natural plants,10,26445,63101.0,NA,18
+195,58,vadodara,2085,kwality limited,71185,34176,company products,8,186733,76967.0,NA,22
+359,123,ahmedabad,2410,kwality limited,54709,33879,NA,1,124423,106179.0,no,31
+9,82,ahmedabad,455,kwality limited,22383,36645,natural plants,1,193970,96972.0,yes,19
+211,136,jamnagar,2190,amul,80918,21871,company products,8,191463,129396.0,no,26
+87,252,rajkot,1836,selling privately to consumers,88400,47585,natural plants,6,201722,98239.0,no,0
+31,135,vadodara,1299,dynamix dairy,45052,17762,NA,1,202428,42966.0,yes,26
+84,263,surat,1821,parag milk foods ltd,44423,28680,company products,10,43064,79798.0,yes,21
+442,200,ahmedabad,3002,parag milk foods ltd,16233,29635,company products,5,183349,131396.0,yes,34
+265,231,NA,1456,kwality limited,47076,44934,NA,NA,30992,92350.0,NA,2
+9,80,ahmedabad,425,kwality limited,24410,35219,natural plants,1,192461,102075.0,NA,17
+356,90,ahmedabad,2317,kwality limited,49040,31235,company products,2,77784,111549.0,no,7
+292,36,jamnagar,1743,kwality limited,80571,14449,company products,6,176996,72273.0,no,15
+335,271,surat,2998,amul,32539,4791,natural plants,9,156790,91734.0,yes,47
+197,82,vadodara,2109,amul,93192,38340,NA,9,117946,94277.0,yes,10
+180,304,ahmedabad,2437,karnataka co-operative milk federation,40380,41652,natural plants,4,93610,101165.0,no,37
+178,134,ahmedabad,1730,selling privately to consumers,78337,46681,NA,1,191767,44670.0,no,7
+337,194,surat,2611,orissa state cooperative milk producers federation,55766,26049,NA,7,171610,90351.0,yes,13
+251,46,vadodara,1400,parag milk foods ltd,52742,19048,natural plants,10,25127,56256.0,NA,16
+459,139,vadodara,3105,mother dairy,48696,33931,natural plants,3,202182,94398.0,no,14
+373,96,vadodara,2990,aavin,84652,34616,natural plants,2,136170,96705.0,no,17
+192,110,jamnagar,1615,amul,37006,44554,company products,1,184650,93997.0,yes,48
+396,295,surat,2835,parag milk foods ltd,84797,3493,natural plants,1,137247,72269.0,yes,12
+151,127,surat,1305,dudhsagar dairy,29587,0,company products,2,58988,42203.0,no,33
+42,220,jamnagar,1254,mother dairy,99209,8710,company products,7,81655,47126.0,yes,52
+148,255,rajkot,2115,orissa state cooperative milk producers federation,32739,700,company products,5,77118,65735.0,no,20
+147,45,NA,2308,orissa state cooperative milk producers federation,61474,44811,company products,9,49240,87204.0,NA,47
+359,112,ahmedabad,2482,kwality limited,55026,31714,NA,1,145221,108820.0,no,28
+383,160,NA,1399,amul,22583,24091,NA,7,100783,83780.0,yes,41
+265,126,jamnagar,1648,verka,92439,32379,natural plants,5,39238,80314.0,no,3
+99,130,surat,678,orissa state cooperative milk producers federation,41208,30653,company products,8,22367,123424.0,no,23
+323,97,ahmedabad,2155,dynamix dairy,82945,16768,natural plants,5,32104,83355.0,NA,24
+53,83,vadodara,566,aavin,68776,31743,company products,8,142151,67478.0,no,29
+244,51,vadodara,1312,milk collection centre,66005,36615,natural plants,10,71392,58087.0,NA,18
+267,205,rajkot,2358,selling privately to consumers,79258,33737,company products,7,214941,76241.0,yes,23
+143,270,rajkot,1968,kwality limited,79288,34892,company products,2,72552,103145.0,no,13
+1,142,vadodara,1274,aavin,33939,21616,natural plants,1,187294,64667.0,no,34
+277,150,vadodara,2354,parag milk foods ltd,15221,24846,natural plants,9,106027,91821.0,yes,24
+9,123,ahmedabad,453,kwality limited,27218,37063,natural plants,1,200573,92043.0,yes,22
+397,290,surat,3603,orissa state cooperative milk producers federation,31242,8256,NA,2,136109,108820.0,no,23
+333,289,rajkot,3047,dudhsagar dairy,93405,24776,natural plants,8,101514,117581.0,no,27
+98,236,jamnagar,547,dudhsagar dairy,86379,16624,company products,4,52543,30590.0,yes,28
+442,236,rajkot,3048,parag milk foods ltd,11169,32691,company products,5,172974,133951.0,NA,35
+449,68,vadodara,2845,amul,29083,32437,company products,3,113882,129699.0,no,43
+9,123,ahmedabad,543,kwality limited,23850,40047,natural plants,1,189282,100399.0,NA,14
+251,62,vadodara,1620,parag milk foods ltd,33081,15245,natural plants,10,23432,61278.0,NA,15
+389,42,NA,2178,karnataka co-operative milk federation,53382,22348,NA,5,97942,85567.0,yes,12
+431,180,surat,1798,kwality limited,52867,46741,company products,9,119396,113588.0,no,35
+398,302,jamnagar,2451,mother dairy,35508,20294,natural plants,5,79832,93907.0,no,33
+290,286,jamnagar,2696,amul,101071,5708,company products,1,178217,99295.0,yes,39
+180,291,ahmedabad,2379,karnataka co-operative milk federation,37335,39549,natural plants,4,82306,120966.0,no,32
+383,156,jamnagar,1369,amul,21234,18016,NA,7,99000,82219.0,yes,46
+165,243,surat,1500,parag milk foods ltd,99797,23700,company products,9,58716,80570.0,yes,7
+42,291,ahmedabad,1294,kwality limited,41873,20009,natural plants,9,31680,62529.0,no,14
+117,183,rajkot,1340,kwality limited,100662,9119,natural plants,9,94026,65593.0,yes,12
+127,259,jamnagar,637,parag milk foods ltd,45684,4562,company products,4,168699,28288.0,yes,38
+314,249,surat,3138,verka,37405,33108,natural plants,10,101660,108602.0,yes,11
+273,268,ahmedabad,2657,aavin,43414,14774,company products,7,21232,162006.0,no,27
+459,166,vadodara,3164,parag milk foods ltd,53027,32051,natural plants,9,202251,95480.0,no,8
+98,188,jamnagar,330,dudhsagar dairy,74091,9789,company products,4,19471,25316.0,no,25
+25,305,ahmedabad,1603,parag milk foods ltd,51895,2955,company products,2,70717,52149.0,no,11
+9,86,NA,241,kwality limited,25172,37119,natural plants,1,202878,97938.0,yes,24
+207,57,NA,1168,milk collection centre,75903,33086,natural plants,4,114753,75572.0,no,17
+420,141,vadodara,3007,karnataka co-operative milk federation,78786,20101,company products,4,98455,105385.0,no,25
+195,75,vadodara,2089,kwality limited,72973,34875,company products,8,171548,75738.0,NA,22
+257,40,ahmedabad,1551,aavin,50865,18532,natural plants,7,142526,73956.0,no,2
+273,269,ahmedabad,2784,aavin,34145,10801,company products,7,27642,102638.0,no,31
+396,293,surat,1246,selling privately to consumers,19842,39348,natural plants,8,69629,63505.0,no,38
+47,1,vadodara,724,dynamix dairy,84427,12997,company products,3,165445,45383.0,NA,28
+70,1,rajkot,719,kwality limited,102792,48132,natural plants,4,30141,62510.0,NA,53
+57,114,NA,1634,mother dairy,32240,7112,natural plants,2,167167,56452.0,no,44
+288,137,surat,2141,kwality limited,79575,37423,natural plants,8,175379,108183.0,NA,40
+143,277,rajkot,2142,karnataka co-operative milk federation,56785,36293,company products,2,79376,102444.0,no,8
+94,10,jamnagar,1425,dudhsagar dairy,25000,10903,natural plants,4,27095,104665.0,yes,37
+384,236,jamnagar,2713,aavin,49087,43941,company products,5,147662,127172.0,yes,5
+373,116,vadodara,2034,aavin,74154,31625,natural plants,5,153968,89720.0,no,21
+87,225,rajkot,1700,selling privately to consumers,70316,42653,NA,3,181398,93821.0,yes,3
+472,71,rajkot,1319,mother dairy,37616,27019,company products,2,115797,109345.0,no,43
+396,315,surat,2476,parag milk foods ltd,121088,8517,natural plants,1,157287,87356.0,yes,6
+203,28,NA,984,amul,27957,24022,natural plants,2,42076,51380.0,yes,33
+257,49,ahmedabad,1765,dudhsagar dairy,52974,18740,natural plants,7,143833,67052.0,no,0
+442,294,jamnagar,3269,karnataka co-operative milk federation,31103,17768,company products,2,181614,133113.0,yes,38
+94,83,jamnagar,1421,kwality limited,29923,12667,company products,4,14317,104799.0,yes,39
+244,21,vadodara,1101,orissa state cooperative milk producers federation,56877,33423,natural plants,1,74287,47070.0,no,21
+487,278,vadodara,2646,dynamix dairy,24969,44492,natural plants,9,79836,133453.0,no,26
+397,310,surat,3294,mother dairy,38240,3749,natural plants,2,143780,105290.0,no,22
+488,210,NA,3614,amul,86652,36739,natural plants,2,139223,145204.0,no,11
+88,46,ahmedabad,558,milk collection centre,32405,16153,company products,3,90073,29744.0,yes,31
+69,230,surat,1816,aavin,30808,5136,natural plants,10,179344,54954.0,no,44
+292,62,jamnagar,1668,kwality limited,78698,14635,company products,6,189724,65184.0,no,18
+174,63,surat,1410,verka,22860,39551,natural plants,9,126731,81727.0,no,37
+42,283,ahmedabad,1504,orissa state cooperative milk producers federation,36910,12329,natural plants,9,37938,70813.0,no,15
+285,301,rajkot,1546,verka,32890,12969,company products,NA,212179,97212.0,no,47
+172,14,jamnagar,1335,mother dairy,59453,47304,company products,7,86999,78529.0,no,40
+358,226,vadodara,3193,aavin,17136,13605,natural plants,4,130634,107215.0,NA,33
+291,16,jamnagar,2467,karnataka co-operative milk federation,75194,44919,company products,4,60301,66071.0,no,3
+321,256,surat,3060,selling privately to consumers,69292,37669,natural plants,4,119992,99460.0,yes,47
+88,285,ahmedabad,795,selling privately to consumers,32970,12757,natural plants,3,93080,38537.0,yes,24
+105,113,jamnagar,817,dudhsagar dairy,68399,48034,NA,7,161112,100656.0,yes,19
+163,267,vadodara,2181,selling privately to consumers,51051,32226,natural plants,2,149360,103099.0,yes,28
+324,148,vadodara,2956,mother dairy,64293,26245,natural plants,3,88432,150218.0,no,0
+356,63,vadodara,2088,kwality limited,46578,34035,company products,2,70059,98104.0,no,1
+242,226,surat,2384,karnataka co-operative milk federation,58357,22976,company products,4,66628,96559.0,yes,39
+42,289,NA,1705,orissa state cooperative milk producers federation,43816,20443,natural plants,9,45493,65236.0,no,20
+172,12,jamnagar,1045,mother dairy,57550,44073,company products,9,79614,71901.0,no,41
+472,97,rajkot,1621,mother dairy,37714,28353,company products,1,136117,114810.0,no,41
+183,217,jamnagar,2261,aavin,97803,44933,natural plants,8,192300,77302.0,yes,13
+488,221,NA,3559,amul,98743,36103,natural plants,2,130250,141938.0,no,6
+452,164,rajkot,1122,mother dairy,29498,42787,company products,2,173490,159046.0,no,12
+267,241,surat,1851,selling privately to consumers,73154,35802,company products,4,194911,66150.0,yes,23
+47,168,ahmedabad,1042,aavin,73742,12300,company products,3,158905,55087.0,no,28
+430,1,vadodara,1988,orissa state cooperative milk producers federation,67787,35450,natural plants,4,88534,121020.0,no,12
+500,80,surat,2655,parag milk foods ltd,14926,6829,natural plants,3,89749,95280.0,no,39
+387,276,surat,2814,dynamix dairy,73193,13728,company products,5,144822,99793.0,no,44
+384,145,surat,2467,aavin,41587,43596,company products,5,156875,115981.0,yes,5
+31,131,vadodara,974,dynamix dairy,49104,18950,NA,1,192518,48869.0,yes,28
+39,35,vadodara,1836,dudhsagar dairy,50028,20184,company products,1,89771,32786.0,NA,0
+119,200,ahmedabad,1708,amul,46890,34568,company products,1,127505,80353.0,no,49
+464,265,NA,2575,mother dairy,6097,24847,NA,4,43448,137384.0,no,31
+211,138,jamnagar,2421,mother dairy,87651,17668,company products,8,193059,120306.0,no,25
+121,128,surat,1852,orissa state cooperative milk producers federation,25031,22360,company products,3,193473,63409.0,no,44
+431,205,NA,2300,kwality limited,52249,44221,company products,9,111581,115015.0,no,42
+127,84,jamnagar,212,parag milk foods ltd,43983,0,natural plants,4,186580,28091.0,yes,40
+500,63,surat,2745,parag milk foods ltd,24686,11310,natural plants,3,159790,79987.0,no,34
+442,197,rajkot,3427,parag milk foods ltd,16411,27595,natural plants,10,242838,125688.0,yes,33
+500,29,surat,1570,verka,28186,9741,natural plants,3,77275,98555.0,no,41
+448,80,NA,2657,verka,8430,22658,natural plants,8,41590,113025.0,yes,35
+95,196,jamnagar,1414,aavin,72818,36238,natural plants,3,44971,27620.0,no,25
+384,220,jamnagar,2405,aavin,44337,46186,company products,5,136489,122230.0,yes,6
+151,122,surat,1473,dudhsagar dairy,31010,2027,company products,2,53722,37210.0,yes,34
+53,107,ahmedabad,719,milk collection centre,77722,31057,company products,8,130161,69394.0,no,36
+267,240,rajkot,2308,selling privately to consumers,81879,31424,company products,2,189611,73055.0,yes,20
+207,44,vadodara,1536,milk collection centre,83115,35664,natural plants,4,113923,72076.0,no,21
+460,302,ahmedabad,402,dynamix dairy,27695,39270,company products,6,124185,168927.375,no,13
+472,293,rajkot,3985,mother dairy,94342,8945,natural plants,NA,37601,107133.0,NA,13
+397,299,surat,3667,orissa state cooperative milk producers federation,33574,6855,company products,6,117501,125700.0,no,24
+359,127,surat,2611,kwality limited,56811,34150,natural plants,3,105659,98251.0,no,32
+420,154,vadodara,2865,orissa state cooperative milk producers federation,71218,14180,company products,10,104590,105220.0,no,11
+341,176,surat,1995,mother dairy,78488,40025,company products,8,139076,102082.0,no,4
+292,214,rajkot,2622,dudhsagar dairy,104365,48253,company products,8,118327,121214.0,yes,38
+486,25,vadodara,2714,karnataka co-operative milk federation,96085,4165,natural plants,7,69210,102222.0,NA,32
+119,193,ahmedabad,1734,amul,46509,24965,company products,NA,133432,64494.0,no,48
+117,202,rajkot,1310,aavin,84225,5576,company products,9,96553,64770.0,yes,10
+464,299,NA,2404,mother dairy,20845,26112,NA,4,37289,129258.0,no,25
